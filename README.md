@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Dr. Bamise Omolaso 👋</h1>
 
 <p align="center">
-  <strong>Medical doctor → cloud & DevSecOps engineer.</strong><br>
+  <strong>Medical doctor → Cloud & DevSecOps engineer.</strong><br>
   Building production systems the right way — in public.
 </p>
 
